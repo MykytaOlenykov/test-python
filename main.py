@@ -13,3 +13,7 @@ def mango():
 
 def log():
     print("Something log")
+
+
+def a():
+    pass
