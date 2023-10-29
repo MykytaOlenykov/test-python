@@ -7,5 +7,9 @@ def hello_world():
     print(1 + 2)
 
 
+def mango():
+    pass
+
+
 def log():
     print("Something log")
