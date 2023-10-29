@@ -1,5 +1,5 @@
-def hello_world():
-    print("Hello World")
+def mango():
+    pass
 
 
 def log():
